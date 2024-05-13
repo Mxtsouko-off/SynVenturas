@@ -1,17 +1,18 @@
 # SynVenturas
-Easy Fortnite fr Injector bot
+How to Inject Fortnite Bot as SynVenturas
 
+Welcome, dear user of SynVenturas, my bot injector software.
 
-Bienvenue, cher utilisateur de SynVenturas, mon logiciel d'injecteur de bot.
+Here is the detailed guide to integrate your own bot using my software:
 
-Voici le guide détaillé pour intégrer ton propre bot en utilisant mon logiciel :
+Step 1: Starts the process by running the setup.bat file, which installs the necessary modules for startup.
 
-Étape 1 : Lance le processus en exécutant le fichier setup.bat, qui installe les modules nécessaires au démarrage.
+Step 2: Access the app file and start the software by running SynVenturas.exe.
 
-Étape 2 : Accède au fichier app et démarre le logiciel en exécutant SynVenturas.exe.
+Step 3: By launching the software you just have to connect your account from the official website from the link which will launch and accept and then wait for it to connect to the account and voila!
 
-Étape 3 : En lancant le logiciel tu a juste a connecter ton compte depuis le site officiel depuis le lien qui se lancera et accepter et ensuite attendre qu'il se connecte au compte et voila !
+Don't hesitate to join me on Discord (username: mxtsouko) if you have any questions or need assistance.
 
-N'hésite pas à me rejoindre sur Discord (pseudo : mxtsouko) si tu as des questions ou besoin d'assistance.
+Enjoy the experience and enjoy using it!
 
-Profite pleinement de l'expérience et bonne utilisation !
+# By Mxtsouko
